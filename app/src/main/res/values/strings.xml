@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">alphabetsproject</string>
+    <string name="button1_name">grass letters</string>
+    <string name="button2_name">sky letters</string>
+    <string name="button3_name">root letters</string>
+</resources>
